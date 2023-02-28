@@ -99,3 +99,4 @@ ECR_REPOSITORY_NAME=
 BUCKET_NAME=
 MONGO_DB_URL=
 ```
+suman updated the file in neurolab
